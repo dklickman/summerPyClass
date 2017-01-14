@@ -1,0 +1,14 @@
+>>> from Proj04 import getLen
+
+
+
+
+
+
+>>> 'David Klickman'
+
+>>> getLen(['a','b','c'])
+4
+
+
+
